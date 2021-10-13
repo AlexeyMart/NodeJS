@@ -1,0 +1,6 @@
+.idea
+.vscode
+node_modules
+package-lock.json
+yarn.lock
+08-authentication/02-oauth/config_secret.js
